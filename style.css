@@ -1,0 +1,19 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Press Start 2P', cursive;
+}
+canvas {
+  display: block;
+  
+}
+
+#start{
+  background:#89f929;
+  color:black;
+
+}
+#start:hover{
+  background:#6ec821;
+  font-size:20px;
+}
